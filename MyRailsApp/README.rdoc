@@ -1,5 +1,5 @@
 My new Rails app
-created with mentor from bloc
+created with mentor from bloc-checkpoint-50
 
 == README
 
